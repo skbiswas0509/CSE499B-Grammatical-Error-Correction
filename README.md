@@ -53,6 +53,3 @@ The project achieves promising results in grammatical error correction, with the
 
 Contributions are welcome! Please feel free to open issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License.
